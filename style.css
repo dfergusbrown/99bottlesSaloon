@@ -1,0 +1,9 @@
+.container h1 {
+    text-align: center;
+    font-size: 8vmin;
+}
+
+.container {
+    background-color: rgba(51, 8, 0, .85);
+    background-image: url(./assets/wood-pattern.png);
+}
