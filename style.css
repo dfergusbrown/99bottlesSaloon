@@ -7,3 +7,12 @@
     background-color: rgba(51, 8, 0, .85);
     background-image: url(./assets/wood-pattern.png);
 }
+
+.hide {
+    display: none;
+}
+
+.bottle {
+    display: inline-block;
+    height: 20vmin;
+}
